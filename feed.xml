@@ -3,7 +3,7 @@
     <title>Andy Loves Tacos</title>
     <link href="https://dropthedot.github.io/andylovestacos/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylovestacos" />
-    <updated>2026-02-10T09:47:04-06:00</updated>
+    <updated>2026-02-10T09:48:11-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://dropthedot.github.io/andylovestacos/10th-of-february-2026-playa-guiones.html"/>
         <id>https://dropthedot.github.io/andylovestacos/10th-of-february-2026-playa-guiones.html</id>
+        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/17/26.02.10-121.jpg" medium="image" />
 
         <updated>2026-02-10T09:35:21-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/17/26.02.10-121.jpg" alt="" />
                     Surf Report 6:30am: Chest to overhead high waves 2.2 feet at 17&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/17/26.02.10-121.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Surf Report 6:30am:<br>Chest to overhead high waves<br>2.2 feet at 17 seconds from 292°<br>Wind: 19 kph offshore</p>
 <form action="https://andylovestacos.myportfolio.com/260210-playa-guiones">
 <p><button class="GFG" type="submit">Today's Photos</button></p>
