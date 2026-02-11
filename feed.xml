@@ -3,12 +3,36 @@
     <title>Andy Loves Tacos</title>
     <link href="https://dropthedot.github.io/andylovestacos/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylovestacos" />
-    <updated>2026-02-10T14:17:49-06:00</updated>
+    <updated>2026-02-11T12:04:28-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
     <id>https://dropthedot.github.io/andylovestacos</id>
 
+    <entry>
+        <title>11th of February, 2026 Playa Guiones</title>
+        <author>
+            <name>Andy</name>
+        </author>
+        <link href="https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones/"/>
+        <id>https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones/</id>
+
+        <updated>2026-02-11T11:58:49-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Surf Report 7:15am: Chest to overhead high waves 2.7 feet at 15 seconds from 292° Wind: 19 kph offshore&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Surf Report 7:15am:<br>Chest to overhead high waves<br>2.7 feet at 15 seconds from 292°<br>Wind: 19 kph offshore</p>
+<form action="https://andylovestacos.myportfolio.com/260211">
+<p><button class="GFG" type="submit">Today's Photos</button></p>
+<p> </p>
+</form><form action="https://andylovestacos.com/purchase-photos/"><button class="GFG" type="submit">Purchase Your Photo</button></form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>10th of February, 2026 Playa Guiones</title>
         <author>
@@ -32,7 +56,7 @@
 <form action="https://andylovestacos.myportfolio.com/260210-playa-guiones">
 <p><button class="GFG" type="submit">Today's Photos</button></p>
 <p> </p>
-</form><form action="https://andylikespasta.com/purchase-photos.html"><button class="GFG" type="submit">Purchase Your Photos</button></form>
+</form><form action="https://andylovestacos.com/purchase-photos/"><button class="GFG" type="submit">Purchase Your Photo</button></form>
             ]]>
         </content>
     </entry>
@@ -59,7 +83,7 @@
 <form action="https://andylovestacos.myportfolio.com/260209-playa-guiones">
 <p><button class="GFG" type="submit">Today's Photos</button></p>
 <p> </p>
-</form><form action="https://andylikespasta.com/purchase-photos.html"><button class="GFG" type="submit">Purchase Your Photos</button></form>
+</form><form action="https://andylovestacos.com/purchase-photos/"><button class="GFG" type="submit">Purchase Your Photo</button></form>
             ]]>
         </content>
     </entry>
