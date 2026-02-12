@@ -3,12 +3,39 @@
     <title>Andy Loves Tacos</title>
     <link href="https://dropthedot.github.io/andylovestacos/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylovestacos" />
-    <updated>2026-02-11T12:18:06-06:00</updated>
+    <updated>2026-02-12T09:58:44-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
     <id>https://dropthedot.github.io/andylovestacos</id>
 
+    <entry>
+        <title>12th of February, 2026 Playa Guiones</title>
+        <author>
+            <name>Andy</name>
+        </author>
+        <link href="https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-2/"/>
+        <id>https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-2/</id>
+        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/21/AndyLovesTacosNW-1077.jpg" medium="image" />
+
+        <updated>2026-02-12T09:55:59-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/21/AndyLovesTacosNW-1077.jpg" alt="" />
+                    Surf Report 7:15am: Chest to overhead high waves 2.1 feet at 16 seconds from 217° Wind: 11 kph offshore&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/21/AndyLovesTacosNW-1077.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Surf Report 7:15am:<br>Chest to overhead high waves<br>2.1 feet at 16 seconds from 217°<br>Wind: 11 kph offshore</p>
+<form action="https://andylovestacos.myportfolio.com/200212">
+<p><button class="GFG" type="submit">Today's Photos</button></p>
+<p> </p>
+</form><form action="https://andylovestacos.com/purchase-photos/"><button class="GFG" type="submit">Purchase Your Photo</button></form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>11th of February, 2026 Playa Guiones</title>
         <author>
