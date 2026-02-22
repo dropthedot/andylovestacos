@@ -3,12 +3,37 @@
     <title>Andy Loves Tacos</title>
     <link href="https://dropthedot.github.io/andylovestacos/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylovestacos" />
-    <updated>2026-02-21T09:51:45-06:00</updated>
+    <updated>2026-02-22T12:24:38-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
     <id>https://dropthedot.github.io/andylovestacos</id>
 
+    <entry>
+        <title>22nd of February, 2026 Playa Guiones</title>
+        <author>
+            <name>Andy</name>
+        </author>
+        <link href="https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-10-2/"/>
+        <id>https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-10-2/</id>
+        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/31/AndyLovesTacosNW-6138.jpg" medium="image" />
+            <category term="2026-02"/>
+
+        <updated>2026-02-22T12:16:46-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/31/AndyLovesTacosNW-6138.jpg" alt="" />
+                    Surf Report 8:00am: Primary swell from the SSW (193) 1.5 ft @ 13 sec Wind from the NE 10&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/31/AndyLovesTacosNW-6138.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Surf Report 8:00am:<br><span class="details-label">Primary swell from the</span> <span class="details-txt">SSW (193) 1.5 ft @ 13 sec</span><span class="details-txt"><br><span class="details-label">Wind from the NE 10 kph</span></span></p>
+<p><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/260222">Today's Photos</a><a class="luxury-btn" href="https://andylovestacos.com/purchase-photos/">Buy Your Photo</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>21st of February, 2026 Playa Guiones</title>
         <author>
@@ -231,31 +256,6 @@
                     <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/21/AndyLovesTacosNW-1077.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Surf Report 7:15am:<br>Chest to overhead high waves<br>2.1 feet at 16 seconds from 217°<br>Wind: 11 kph offshore</p>
 <p><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/200212">Today's Photos </a> <a class="luxury-btn" href="https://andylovestacos.com/purchase-photos/">Buy Your Photo</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>11th of February, 2026 Playa Guiones</title>
-        <author>
-            <name>Andy</name>
-        </author>
-        <link href="https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones/"/>
-        <id>https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones/</id>
-        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/20/AndyLovesTacosNW-0881.jpg" medium="image" />
-            <category term="2026-02"/>
-
-        <updated>2026-02-11T11:58:49-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/20/AndyLovesTacosNW-0881.jpg" alt="" />
-                    Surf Report 7:15am: Chest to overhead high waves 2.7 feet at 15 seconds from 292° Wind: 19 kph offshore&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/20/AndyLovesTacosNW-0881.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Surf Report 7:15am:<br>Chest to overhead high waves<br>2.7 feet at 15 seconds from 292°<br>Wind: 19 kph offshore</p>
-<p><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/260211">Today's Photos</a><a class="luxury-btn" href="https://andylovestacos.com/purchase-photos/">Buy Your Photo</a></p>
             ]]>
         </content>
     </entry>
