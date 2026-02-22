@@ -11,22 +11,6 @@
     },
     "items": [
         {
-            "id": "https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-10-2/",
-            "url": "https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-10-2/",
-            "title": "22nd of February, 2026 Playa Guiones",
-            "summary": "Surf Report 8:00am: Primary swell from the SSW (193) 1.5 ft @ 13 sec Wind from the NE 10&hellip;",
-            "content_html": "<p>Surf Report 8:00am:<br><span class=\"details-label\">Primary swell from the</span> <span class=\"details-txt\">SSW (193) 1.5 ft @ 13 sec</span><span class=\"details-txt\"><br><span class=\"details-label\">Wind from the NE 10 kph</span></span></p>\n<p><a class=\"luxury-btn\" href=\"https://andylovestacos.myportfolio.com/260222\">Today's Photos</a><a class=\"luxury-btn\" href=\"https://andylovestacos.com/purchase-photos/\">Buy Your Photo</a></p>",
-            "image": "https://dropthedot.github.io/andylovestacos/media/posts/31/AndyLovesTacosNW-6138.jpg",
-            "author": {
-                "name": "Andy"
-            },
-            "tags": [
-                   "2026-02"
-            ],
-            "date_published": "2026-02-22T12:16:46-06:00",
-            "date_modified": "2026-02-22T12:24:38-06:00"
-        },
-        {
             "id": "https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-10/",
             "url": "https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones-10/",
             "title": "21st of February, 2026 Playa Guiones",
@@ -169,6 +153,22 @@
             ],
             "date_published": "2026-02-12T09:55:59-06:00",
             "date_modified": "2026-02-20T12:14:57-06:00"
+        },
+        {
+            "id": "https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones/",
+            "url": "https://dropthedot.github.io/andylovestacos/11th-of-february-2020-playa-guiones/",
+            "title": "11th of February, 2026 Playa Guiones",
+            "summary": "Surf Report 7:15am: Chest to overhead high waves 2.7 feet at 15 seconds from 292° Wind: 19 kph offshore&hellip;",
+            "content_html": "<p>Surf Report 7:15am:<br>Chest to overhead high waves<br>2.7 feet at 15 seconds from 292°<br>Wind: 19 kph offshore</p>\n<p><a class=\"luxury-btn\" href=\"https://andylovestacos.myportfolio.com/260211\">Today's Photos</a><a class=\"luxury-btn\" href=\"https://andylovestacos.com/purchase-photos/\">Buy Your Photo</a></p>",
+            "image": "https://dropthedot.github.io/andylovestacos/media/posts/20/AndyLovesTacosNW-0881.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+                   "2026-02"
+            ],
+            "date_published": "2026-02-11T11:58:49-06:00",
+            "date_modified": "2026-02-20T12:14:30-06:00"
         }
     ]
 }
