@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-4/",
+            "url": "https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-4/",
+            "title": "20th of April, 2026 Playa Guiones",
+            "summary": "Surf Report 7:00am: Primary swell from the SSW (203) 3.4 ft @ 13 sec Wind from the NE 6&hellip;",
+            "content_html": "<p>Surf Report 7:00am:<br><span class=\"details-label\">Primary swell from the</span> <span class=\"details-txt\">SSW (203) 3.4 ft @ 13 sec</span><span class=\"details-txt\"><br><span class=\"details-label\">Wind from the NE 6 kph<br></span></span></p>\n<p><a class=\"luxury-btn\" href=\"https://andylovestacos.myportfolio.com/260420\">Today's Photos</a><a class=\"luxury-btn\" href=\"https://andylovestacos.com/purchase-photos/\">Buy Your Photo</a></p>",
+            "image": "https://dropthedot.github.io/andylovestacos/media/posts/68/AndyLovesTacosNW-2404.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+                   "April 2026"
+            ],
+            "date_published": "2026-04-20T09:23:44-06:00",
+            "date_modified": "2026-04-20T09:25:28-06:00"
+        },
+        {
             "id": "https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-3/",
             "url": "https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-3/",
             "title": "19th of April, 2026 Playa Guiones",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2026-04-02T11:28:09-06:00",
             "date_modified": "2026-04-05T12:52:59-06:00"
-        },
-        {
-            "id": "https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-3/",
-            "url": "https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-3/",
-            "title": "1st of April, 2026 Playa Guiones",
-            "summary": "Surf Report 7:00am: Primary swell from the SSW (194) 3.8 ft @ 14 sec Wind from the NE 10&hellip;",
-            "content_html": "<p>Surf Report 7:00am:<br><span class=\"details-label\">Primary swell from the</span> <span class=\"details-txt\">SSW (194) 3.8 ft @ 14 sec</span><span class=\"details-txt\"><br><span class=\"details-label\">Wind from the NE 10 kph<br></span></span></p>\n<p><a class=\"luxury-btn\" href=\"https://andylovestacos.myportfolio.com/260401\">Today's Photos</a><a class=\"luxury-btn\" href=\"https://andylovestacos.com/purchase-photos/\">Buy Your Photo</a></p>",
-            "image": "https://dropthedot.github.io/andylovestacos/media/posts/55/AndyLovesTacosNW-0187.jpg",
-            "author": {
-                "name": "Andy"
-            },
-            "tags": [
-                   "April 2026"
-            ],
-            "date_published": "2026-04-01T15:11:33-06:00",
-            "date_modified": "2026-04-01T15:13:13-06:00"
         }
     ]
 }
