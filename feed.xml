@@ -3,7 +3,7 @@
     <title>Andy Loves Tacos</title>
     <link href="https://dropthedot.github.io/andylovestacos/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylovestacos" />
-    <updated>2026-06-29T14:47:16-06:00</updated>
+    <updated>2026-06-29T14:47:46-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-10-10-10-7/"/>
         <id>https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-10-10-10-7/</id>
+        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/101/_R7_7606.jpg" medium="image" />
             <category term="June 2026"/>
 
         <updated>2026-06-29T14:30:07-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/101/_R7_7606.jpg" alt="" />
                     Gallery
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/101/_R7_7606.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/260629">Gallery</a></p>
             ]]>
         </content>
