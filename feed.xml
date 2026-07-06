@@ -3,12 +3,37 @@
     <title>Andy Loves Tacos</title>
     <link href="https://dropthedot.github.io/andylovestacos/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylovestacos" />
-    <updated>2026-07-04T11:28:51-06:00</updated>
+    <updated>2026-07-06T11:55:05-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
     <id>https://dropthedot.github.io/andylovestacos</id>
 
+    <entry>
+        <title>6th of July, 2026 Playa Guiones</title>
+        <author>
+            <name>Andy</name>
+        </author>
+        <link href="https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-10-10-10-10-5/"/>
+        <id>https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-10-10-10-10-5/</id>
+        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/108/AndyLovesTacosNW-8498.jpg" medium="image" />
+            <category term="July 2026"/>
+            <category term="Guiones"/>
+
+        <updated>2026-07-06T11:53:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/108/AndyLovesTacosNW-8498.jpg" alt="" />
+                    Gallery
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/108/AndyLovesTacosNW-8498.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/260706">Gallery</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>4th of July, 2026 Playa Guiones</title>
         <author>
@@ -225,30 +250,6 @@
             <![CDATA[
                     <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/97/AndyLovesTacosNW-6764.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/260617">Gallery</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>13th of June, 2026 Playa Guiones</title>
-        <author>
-            <name>Andy</name>
-        </author>
-        <link href="https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-10-10-10-2/"/>
-        <id>https://dropthedot.github.io/andylovestacos/posts/11th-of-february-2020-playa-guiones-10-10-10-10-10-10-10-2/</id>
-        <media:content url="https://dropthedot.github.io/andylovestacos/media/posts/96/AndyLovesTacosNW-6490.jpg" medium="image" />
-            <category term="June 2026"/>
-
-        <updated>2026-06-17T14:47:49-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://dropthedot.github.io/andylovestacos/media/posts/96/AndyLovesTacosNW-6490.jpg" alt="" />
-                    Gallery
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://dropthedot.github.io/andylovestacos/media/posts/96/AndyLovesTacosNW-6490.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><a class="luxury-btn" href="https://andylovestacos.myportfolio.com/260613">Gallery</a></p>
             ]]>
         </content>
     </entry>
